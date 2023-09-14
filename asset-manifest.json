@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OpenLibraryReact/static/css/main.5b8bd0ca.css",
+    "main.js": "/OpenLibraryReact/static/js/main.664c1b89.js",
+    "index.html": "/OpenLibraryReact/index.html",
+    "main.5b8bd0ca.css.map": "/OpenLibraryReact/static/css/main.5b8bd0ca.css.map",
+    "main.664c1b89.js.map": "/OpenLibraryReact/static/js/main.664c1b89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8bd0ca.css",
+    "static/js/main.664c1b89.js"
+  ]
+}
